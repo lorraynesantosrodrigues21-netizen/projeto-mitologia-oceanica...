@@ -1,0 +1,40 @@
+body {
+  background-color: #e0f7fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #033e3e;
+  margin: 0;
+  padding: 0;
+}
+.agradecimento {
+  max-width: 600px;
+  margin: 100px auto;
+  padding: 40px;
+  background-color: #ffffff;
+  border: 2px solid #006064;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 96, 100, 0.2);
+}
+.agradecimento h1 {
+  font-size: 28px;
+  color: #006064;
+  margin-bottom: 20px;
+}
+.agradecimento p {
+  font-size: 18px;
+  color: #033e3e;
+  margin-bottom: 30px;
+}
+.agradecimento a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #1E90FF;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+.agradecimento a:hover {
+  background-color: #005fa3;
+}
